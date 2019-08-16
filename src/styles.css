@@ -1,1 +1,9 @@
-/* Add application styles & imports to this file! */
+#HumbleGrappler {
+  font-family: lobster, helvetica;
+}
+body {
+  background: gray;
+}
+p {
+  color: blue;
+}
